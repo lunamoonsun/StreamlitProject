@@ -1,5 +1,5 @@
 streamlit-aggrid==1.0.5
-plotly==5.22.0
+plotly==1.0
 accelerate==0.28.0
 altair==5.2.0
 appdirs==1.4.4
@@ -51,7 +51,6 @@ pandas==2.2.1
 patsy==0.5.6
 peewee==3.17.1
 pillow==10.2.0
-plotly==5.20.0
 pmdarima==2.0.4
 protobuf==4.25.3
 psutil==5.9.8
