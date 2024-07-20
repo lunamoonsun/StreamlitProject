@@ -1,5 +1,5 @@
-streamlit-aggrid
-plotly
+streamlit-aggrid==31.3.0
+plotly==5.22.0
 accelerate==0.28.0
 altair==5.2.0
 appdirs==1.4.4
